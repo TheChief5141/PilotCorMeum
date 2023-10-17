@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/se833307/Documents/GitHub/PilotCorMeum/PilotCorMeum/Content/Blueprints/Overworld/Player/BP_Player_Overworld_Character.uasset",
+				"C:/Users/se833307/Documents/GitHub/PilotCorMeum/PilotCorMeum/Content/Blueprints/Battle/Player/BP_Player_Battle_Controller.uasset",
+				"C:/Users/se833307/Documents/GitHub/PilotCorMeum/PilotCorMeum/Content/Blueprints/Battle/Player/BP_Player_Battle_Character.uasset",
+				"C:/Users/se833307/Documents/GitHub/PilotCorMeum/PilotCorMeum/Content/HUD/WB_Battle_Player.uasset",
 				"/Users/lags/Documents/GitHub/PilotCorMeum/PilotCorMeum/Content/Characters/AmosMaterial/Material_019.uasset",
 				"/Users/lags/Documents/GitHub/PilotCorMeum/PilotCorMeum/Content/Characters/AmosMaterial/Material_020.uasset",
 				"/Users/lags/Documents/GitHub/PilotCorMeum/PilotCorMeum/Content/Characters/AmosMaterial/Material_021.uasset",
